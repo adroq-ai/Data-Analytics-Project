@@ -5,7 +5,7 @@ Welcome to my **Data Analytics Portfolio** — a collection of projects that sho
 ---
 
 ## 🧰 Tools & Technologies
-- **Programming & Statistical Software:** Python, R, SPSS, EViews  
+- **Programming & Statistical Software:** Python, R, SPSS, EViews, STATA  
 - **Data Analytics & BI Tools:** SQL, Excel, Power BI, Tableau  
 - **Methods & Techniques:** Descriptive statistics, inferential statistics, hypothesis testing, data visualization, and exploratory data analysis (EDA).
 
