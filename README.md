@@ -52,9 +52,9 @@ This repository is designed to demonstrate my ability to:
 
 ## 📫 Contact
 - **Name:** Abdur Roqeeb Adisa  
-- **Email:** [your email here]  
-- **LinkedIn:** [your LinkedIn link]  
-- **GitHub:** [your GitHub profile link]
+- **Email:** shehuroqeeb@gmail.com  
+- **LinkedIn:** linkedin.com/in/roqeeb-adisa  
+- **GitHub:** github.com/adroq-ai
 
 ---
 
