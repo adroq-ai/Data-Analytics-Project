@@ -22,7 +22,7 @@ Welcome to my **Data Analytics Portfolio** — a collection of projects that sho
 ## 📝 Featured Projects
 | Project Title | Description | Tools Used |
 |---------------|-------------|------------|
-| Customer Retention Analysis | Analyzed customer churn patterns and retention strategies. | Python, SQL, Power BI |
+| Sales Insights – AtliQ Hardware |Analyzed AtliQ Hardware’s sales data using SQL for cleaning, querying, and analysis, and visualized key trends with Power BI to support data-driven decisions. | SQL, Power BI |
 | Sales Forecasting | Built time-series models to forecast sales trends. | R, EViews |
 | Market Survey Analysis | Hypothesis testing and inference on survey data. | SPSS, Excel |
 | Dashboard for Business KPIs | Interactive BI dashboard to track key metrics. | Tableau, Power BI |
