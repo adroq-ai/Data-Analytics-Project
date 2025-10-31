@@ -51,7 +51,7 @@ This repository is designed to demonstrate my ability to:
 ---
 
 ## 📫 Contact
-- **Name:** Abdur Roqeeb Adisa  
+- **Name:** Roqeeb Adisa  
 - **Email:** shehuroqeeb@gmail.com  
 - **LinkedIn:** linkedin.com/in/roqeeb-adisa  
 - **GitHub:** github.com/adroq-ai
